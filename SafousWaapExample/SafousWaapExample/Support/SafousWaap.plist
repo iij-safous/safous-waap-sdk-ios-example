@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>X-AppId</key>
+	<string>default</string>
+	<key>CertificateName</key>
+	<string>&lt;CERTIFICATE_NAME&gt;</string>
+	<key>CertificatePassword</key>
+	<string>&lt;PASSPHRASE_PASSWORD_CERTIFICATE&gt;</string>
+	<key>BaseUrl</key>
+	<dict>
+		<key>Device</key>
+		<string>https://waap-register.example-waap.waap.safous.com/</string>
+		<key>Auth</key>
+		<string>https://waap-auth.example-waap.waap.safous.com/</string>
+		<key>VerifyToken</key>
+		<string>https://waap-client-verification.example-waap.waap.safous.com/api/device/verify</string>
+	</dict>
+</dict>
+</plist>
