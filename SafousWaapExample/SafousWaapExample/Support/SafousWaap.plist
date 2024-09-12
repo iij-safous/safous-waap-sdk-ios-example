@@ -5,9 +5,9 @@
 	<key>X-AppId</key>
 	<string>default</string>
 	<key>CertificateName</key>
-	<string>&lt;CERTIFICATE_NAME&gt;</string>
+	<string>CERTIFICATE_NAME</string>
 	<key>CertificatePassword</key>
-	<string>&lt;PASSPHRASE_PASSWORD_CERTIFICATE&gt;</string>
+	<string>PASSPHRASE_PASSWORD_CERTIFICATE</string>
 	<key>BaseUrl</key>
 	<dict>
 		<key>Device</key>
